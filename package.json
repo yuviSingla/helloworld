@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "server.js",
+  "scripts": {
+    "test": "test command",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuviSingla/helloworld.git"
+  },
+  "keywords": [
+    "yuviSingla"
+  ],
+  "author": "yuviSingla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuviSingla/helloworld/issues"
+  },
+  "homepage": "https://github.com/yuviSingla/helloworld#readme"
+}
