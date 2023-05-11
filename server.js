@@ -1,14 +1,19 @@
-/*********************************************************************************
-* WEB322: Assignment 1
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
-* No part of this assignment has been copied manually or electronically from any other source
-* (including web sites) or distributed to other students.
-* 
-* Name: ______yuvi________________ Student ID: ____126567213__________ Date: ________________
+/**
+*  WEB322 - Assignment 1
+*  I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
+*  No part of this assignment has been copied manually or electronically from any other source
+*  (including web sites and friends) or distributed to other students.
+*  I understand that if caught doing so, I will receive zero on this assignment and possible 
+*  fail the entire course.
 *
-* Online (cyclic) URL: https://odd-bat-beanie.cyclic.app and https://app.cyclic.sh/#/app/yuvisingla-helloworld/builds
+*  Name: yuvi
+*  Student ID: 126567213
+*  Date: 2023-05-10
+*  Cyclic Web App URL: https://app.cyclic.sh/#/
+*  GitHub Repository URL: https://github.com/yuviSingla?tab=repositories
+*
+*/
 
-********************************************************************************/
 
 var HTTP_PORT = process.env.PORT || 8080;
 var express = require("express");
