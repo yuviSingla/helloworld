@@ -9,7 +9,7 @@
 *  Name: yuvi
 *  Student ID: 126567213
 *  Date: 2023-05-10
-*  Cyclic Web App URL: https://app.cyclic.sh/#/
+*  Cyclic Web App URL: https://odd-bat-beanie.cyclic.app
 *  GitHub Repository URL: https://github.com/yuviSingla?tab=repositories
 *
 */
